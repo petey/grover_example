@@ -1,0 +1,6 @@
+1..9
+#Begin testcase Automated Tests(0 failed of 3)
+ok 1 - test one
+ok 2 - test two
+ok 3 - test three
+#End testcase Automated Tests
